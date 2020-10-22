@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="https://www.dowebok.com/demo/192/css/viewer.min.css" />
+<script src="https://www.dowebok.com/demo/192/js/viewer.min.js" type="text/javascript" charset="utf-8"></script>
+
+<div>
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603373320706&di=ea14583906be201587e19628216ce969&imgtype=0&src=http%3A%2F%2Fwww.dyyy.xjtu.edu.cn%2F__local%2FE%2FAB%2F60%2F809BF7963261C7F16CD9CFC602B_12364BAC_7563E8.jpg"  width="640" height="480" class="difimg" id="dimg">
+</div>
+
+<script>
+var viewer = new Viewer(document.getElementById('dimg'));
+</script>
+
+</body>
+</html>
